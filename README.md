@@ -69,6 +69,6 @@ Thanks for visiting my profile! I'm always looking to learn, collaborate, and im
 I'm interested in connecting with other developers, learning from experienced professionals, and exploring internship opportunities.
 
 - GitHub: [AmandaEric](https://github.com/AmandaEric)
-- LinkedIn: [Add your LinkedIn profile here](YOUR-LINKEDIN-URL)
+- LinkedIn: (https://www.linkedin.com/in/amanda-ericson-7034b5351/)
 
 Thanks for stopping by! 🚀
